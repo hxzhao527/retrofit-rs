@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "retrofit",
+    "retrofit-core",
+    "retrofit-derive",
+]
+resolver = "2"
